@@ -49,4 +49,6 @@
             </x-primary-button>
         </div>
     </form>
+    <p class="mt-2 text-sm text-gray-600">We recommend using a password manager to create and store strong, unique passwords for each of your accounts.</p>
+
 </x-guest-layout>
